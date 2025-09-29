@@ -1,4 +1,4 @@
-package Day1;
+package com.tnsif.ifet.dayone;
 
 public class CharDemo {
 
