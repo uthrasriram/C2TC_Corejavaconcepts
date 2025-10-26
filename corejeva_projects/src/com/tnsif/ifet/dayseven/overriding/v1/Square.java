@@ -1,4 +1,4 @@
-package dayseven.overriding.v1;
+package com.tnsif.ifet.dayseven.overriding.v1;
 
 
 	public class Square extends Shape {

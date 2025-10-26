@@ -1,4 +1,4 @@
-package dayseven.overriding;
+package com.tnsif.ifet.dayseven.overriding;
 
 public class RBI {
 	public float getRateOfInterest() {

@@ -1,4 +1,4 @@
-package dayseven.overloading;
+package com.tnsif.ifet.dayseven.overloading;
 
 public class MethodOverloading {
 	public static int addition(int a, int b) {

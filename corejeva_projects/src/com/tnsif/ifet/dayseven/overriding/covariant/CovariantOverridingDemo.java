@@ -1,4 +1,4 @@
-package dayseven.overriding.covariant;
+package com.tnsif.ifet.dayseven.overriding.covariant;
 
 
 		// TODO Auto-generated method stub

@@ -1,4 +1,4 @@
-package dayseven.overloading;
+package com.tnsif.ifet.dayseven.overloading;
 
 public class Point {
 	private float x;

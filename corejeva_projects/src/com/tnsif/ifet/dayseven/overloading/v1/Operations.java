@@ -1,4 +1,4 @@
-package dayseven.overloading.v1;
+package com.tnsif.ifet.dayseven.overloading.v1;
 
 public class Operations {
 	public static boolean isPalindrome(int number)
