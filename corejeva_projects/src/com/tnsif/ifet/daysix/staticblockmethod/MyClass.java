@@ -1,6 +1,6 @@
 
 
-package daysix.staticblockmethod;
+package com.tnsif.ifet.daysix.staticblockmethod;
 
 
 		// TODO Auto-generated method stub

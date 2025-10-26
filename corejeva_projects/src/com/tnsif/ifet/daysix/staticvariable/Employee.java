@@ -1,4 +1,4 @@
-package daysix.staticvariable;
+package com.tnsif.ifet.daysix.staticvariable;
 
 
 		// TODO Auto-generated method stub
