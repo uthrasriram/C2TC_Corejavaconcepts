@@ -1,4 +1,4 @@
-package Day3.constructor;
+package com.tnsif.ifet.Daythree.constructor;
 
 import java.util.Scanner;
 

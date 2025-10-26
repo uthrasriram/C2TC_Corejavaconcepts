@@ -1,4 +1,4 @@
-package Day3.encapsulation;
+package com.tnsif.ifet.Daythree.encapsulation;
 
 public class EncapsulationDemo {
 

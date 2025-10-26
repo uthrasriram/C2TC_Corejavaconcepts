@@ -1,4 +1,4 @@
-package Day3.ScannerDemo;
+package com.tnsif.ifet.Daythree.ScannerDemo;
 
 public class Person {
 
