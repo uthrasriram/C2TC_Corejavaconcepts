@@ -1,4 +1,4 @@
-package dayfour.thirdpackage;
+package com.tnsif.ifet.dayfour.thirdpackage;
 
 public class MyClass {
 

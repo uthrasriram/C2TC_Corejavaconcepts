@@ -1,4 +1,4 @@
-package dayfour.firstpackage;
+package com.tnsif.ifet.dayfour.firstpackage;
 
 import java.util.Scanner;
 

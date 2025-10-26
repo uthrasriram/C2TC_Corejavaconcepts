@@ -1,4 +1,4 @@
-package dayfour.firstpackage;
+package com.tnsif.ifet.dayfour.firstpackage;
 
 public class Base {
 

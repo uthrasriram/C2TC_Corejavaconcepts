@@ -1,6 +1,6 @@
-package dayfour.secondpackage;
+package com.tnsif.ifet.dayfour.secondpackage;
 
-import dayfour.firstpackage.Base;
+import com.tnsif.ifet.dayfour.firstpackage.Base;
 
 public class Executor {
 
